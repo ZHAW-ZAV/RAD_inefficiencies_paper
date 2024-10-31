@@ -1,0 +1,14 @@
+name: rad_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - traffic
+  - matplotlib
+  - plotly
+  - statsmodels
+  - scipy
+  - onnxruntime
+  - python-kaleido
+  - nbformat
