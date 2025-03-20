@@ -12,3 +12,4 @@ dependencies:
   - onnxruntime
   - python-kaleido
   - nbformat
+  - basemap
